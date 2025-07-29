@@ -36,13 +36,6 @@ I bridge the gap between **AI systems** and **security**, exploring vulnerabilit
 
 ---
 
-## 📈 Current Certifications
-
-- ✅ **EC-Council C|CT** *(Certified Cybersecurity Technician)*
-- 🧠 Preparing for **OSCP**, **CEH**, and **CCNA**
-
----
-
 ## 📬 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/firdeus-dikellari/)
