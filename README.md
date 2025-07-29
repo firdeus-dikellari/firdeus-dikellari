@@ -71,7 +71,7 @@ When I'm not hacking labs or training models, I'm building **Dardan**, the first
 
 ---
 
-## 📫 Connect With Me
+## Let's Connect
 
 <p align="center">
 <a href="https://linkedin.com/in/firdeus-dikellari" target="blank">
