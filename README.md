@@ -7,7 +7,7 @@
 
 ## 🔍 About Me
 
-I’m a cybersecurity specialist obsessed with the **collision between artificial intelligence and offensive security**.  
+I’m a cybersecurity enthusiast obsessed with the **collision between artificial intelligence and offensive security**.  
 By day, I research vulnerabilities in AI systems. By night, I test networks, break models, and build smarter defenses.
 
 My focus areas:
