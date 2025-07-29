@@ -1,47 +1,16 @@
-# Firdeus Dikellari | Aspiring Red Teamer & AI-Security Engineer
+<h1 align="center">Hi, I'm Firdeus Dikellari</h1>
+<h3 align="center">I'm a cybersecurity enthusiast with a strong foundation in Python, AI/ML, and system internals. Currently focused on Red Teaming, AI exploitation, and offensive security research. I bridge the gap between AI systems and security, exploring vulnerabilities in machine learning pipelines, LLMs, and real-time systems. I build from the ground up and break to learn.</h3>
 
-🔍 Ethical Hacker | 🧠 AI-Security Researcher | 💻 Python & C++ Developer  
+- Malware Classification [Malware Classification](https://github.com/firdeus-dikellari/Malware-Classification)
 
----
+- Network Anomaly Detection [Network Anomaly Detection](https://github.com/firdeus-dikellari/Network-Anomaly-Detection)
 
-## 👨‍💻 About Me
+- Spam Classification [Spam Classification](https://github.com/firdeus-dikellari/Spam_Classification)
 
-I'm a cybersecurity enthusiast with a strong foundation in Python, AI/ML, and system internals.  
-Currently focused on **Red Teaming**, **AI exploitation**, and **offensive security research**.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/firdeus-dikellari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firdeus-dikellari" height="30" width="40" /></a>
+</p>
 
-I bridge the gap between **AI systems** and **security**, exploring vulnerabilities in machine learning pipelines, LLMs, and real-time systems. I build from the ground up and break to learn.
-
----
-
-## 🎯 Core Focus Areas
-
-- 🔐 **Offensive Security**: CTFs, red teaming labs, post-exploitation, custom payloads  
-- 🤖 **Adversarial AI**: Model poisoning, prompt injection, data backdoors, AI-driven exploits  
-- 🔬 **System-Level Programming**: C#, Linux internals, memory manipulation, reverse engineering  
-- 🛠️ **Security Automation**: Python tooling for recon, exploitation, and monitoring  
-- 📡 **Networking**: Packet analysis, wireless hacking, enumeration, and pivoting
-
----
-
-## 🧰 Toolbox
-
-| Domain           | Tools & Skills                                                                 |
-|------------------|---------------------------------------------------------------------------------|
-| 💣 Offensive      | Metasploit, Burp Suite, Nmap, Hydra, SQLmap, aircrack-ng, privilege escalation |
-| 🧠 AI Exploitation| Adversarial ML, prompt injection, backdoors in NLP/CV models, PyTorch          |
-| 🔎 Recon & OSINT  | Amass, Shodan, theHarvester, Maltego                                           |
-| 🔧 Programming    | Python, C#, Bash, Assembly (basics)                            |
-| 🧪 Labs & Frameworks | HackTheBox, TryHackMe, VulnHub, Parrot OS, Kali Linux                         |
-| 📊 Monitoring     | Wireshark, tcpdump, Zeek                                                       |
-
----
-
-## 📬 Let's Connect
-
-- 🌐 [LinkedIn](https://www.linkedin.com/firdeus-dikellari/)
-- 💼 Open to mentorship, research collaborations, and other opportunities
-- 📧 firdeus.dikellari@cit.edu.al
-
----
-
-> _"Security isn't a feature — it's a mindset. My mission is to learn, simulate, and safeguard the systems of tomorrow."_
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
