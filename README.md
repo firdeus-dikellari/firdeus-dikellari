@@ -28,7 +28,7 @@ When I'm not hacking labs or training models, I'm building **Dardan**, the first
 - 🧬 **[Malware Classification](https://github.com/firdeus-dikellari/Malware-Classification)** — ML-powered malware detection using behavioral analysis and classification algorithms
 - 🌐 **[Network Anomaly Detection](https://github.com/firdeus-dikellari/Network-Anomaly-Detection)** — Real-time intrusion detection using unsupervised learning on network traffic
 - ✉️ **[Spam Classification](https://github.com/firdeus-dikellari/Spam_Classification)** — NLP-based spam filter with exploration of backdoor poisoning in training data
-- 🤖 **[Dardan - The Albanian Robot](https://github.com/firdeus-dikellari/Dardan)** — Building the world's first robot to understand and speak Albanian
+- 🤖 **[Dardan - The Albanian Robot](https://github.com/firdeus-dikellari/Dardan-Al/)** — Building the world's first robot to understand and speak Albanian
 
 ---
 
