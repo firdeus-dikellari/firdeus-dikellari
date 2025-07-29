@@ -1,4 +1,4 @@
-# 🛡️ Firdeus Dikellari | Aspiring Red Teamer & AI-Security Engineer
+# Firdeus Dikellari | Aspiring Red Teamer & AI-Security Engineer
 
 🔍 Ethical Hacker | 🧠 AI-Security Researcher | 💻 Python & C++ Developer  
 
@@ -43,31 +43,11 @@ I bridge the gap between **AI systems** and **security**, exploring vulnerabilit
 
 ---
 
-## 🚧 Projects & Research
-
-- 🔴 **Model Poisoning via NLP Backdoors**: Researching how simple phrases can bypass spam filters  
-- ⚔️ **Red Team Toolkit in Python**: Developing lightweight automation tools for enumeration and reporting  
-- 🧠 **Adversarial Prompting for LLMs**: Creating a testbed for LLM security and injection testing  
-- 🛰️ **AI-Assisted Recon Tool** *(coming soon)*: Combining NLP and OSINT for target profiling  
-- 🔍 **CTF Writeups & Labs** *(in progress)*: Documenting learning paths, challenges, and exploits  
-
----
-
-## 📚 Learning Goals
-
-- 🧬 Build & defend **custom TTS & LLM systems**  
-- 🔄 Reverse engineer binaries & exploit memory vulnerabilities  
-- ⚙️ Master Linux privilege escalation & post-exploitation techniques  
-- 🔥 Craft sophisticated red team engagements  
-- 🕵️ Blend AI into penetration testing workflows
-
----
-
 ## 📬 Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/) *(insert your link)*
-- 💼 Open to mentorship, research collaborations, and internship opportunities
-- 📧 firdeus@example.com *(replace or remove if needed)*
+- 🌐 [LinkedIn](https://www.linkedin.com/firdeus-dikellari/)
+- 💼 Open to mentorship, research collaborations, and other opportunities
+- 📧 firdeus.dikellari@cit.edu.al
 
 ---
 
