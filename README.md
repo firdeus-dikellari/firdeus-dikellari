@@ -1,29 +1,30 @@
 <h1 align="center">Hi, I'm Firdeus Dikellari 🛡️</h1>
-<h3 align="center">Cybersecurity Enthusiast | AI-Security Researcher | Red Team Learner</h3>
+<h3 align="center">AI Red Teamer | Machine Learning Security Researcher | Pentesting Enthusiast</h3>
 
-<p align="center">🎓 Student at CIT | EC-Council C|CT Certified | OSCP in Progress</p>
+<p align="center">🎓 Computer Engineering & IT Student at CIT | PJPT | CPTS in Progress</p>
 
 ---
 
 <h3>🔍 About Me</h3>
 
-I'm a cybersecurity enthusiast with a strong foundation in **Python**, **AI/ML**, and **system internals**.  
-Currently focused on **Red Teaming**, **AI exploitation**, and **offensive security research**.
+I'm a forward-thinking cybersecurity specialist focused on the intersection of **artificial intelligence** and **offensive security**.  
+Currently mastering **AI Red Teaming**, **network & web application penetration testing**, and **security automation**.
 
-I bridge the gap between AI systems and security, exploring vulnerabilities in:
-- Machine learning pipelines
-- LLMs and prompt injection
-- Real-time IoT/robotic systems
+Passionate about breaking systems to build them stronger — especially when it comes to:
+- Exploiting AI/ML models and pipelines
+- Bypassing intelligent defenses
+- Hunting vulnerabilities in modern attack surfaces
 
-I build from the ground up — and break to learn.
+When I'm not hacking labs or training models, I’m building **Dardan** — the first Albanian-speaking robot.
 
 ---
 
 <h3>🧠 Featured Projects</h3>
 
-- 🧬 **[Malware Classification](https://github.com/firdeus-dikellari/Malware-Classification)** — Detects and classifies malware using ML techniques  
-- 🌐 **[Network Anomaly Detection](https://github.com/firdeus-dikellari/Network-Anomaly-Detection)** — Identifies abnormal behavior in network traffic  
-- ✉️ **[Spam Classification](https://github.com/firdeus-dikellari/Spam_Classification)** — Includes backdoor exploration in spam/ham filters
+- 🧬 **[Malware Classification](https://github.com/firdeus-dikellari/Malware-Classification)** — ML-powered malware detection using behavioral analysis and classification algorithms  
+- 🌐 **[Network Anomaly Detection](https://github.com/firdeus-dikellari/Network-Anomaly-Detection)** — Real-time intrusion detection using unsupervised learning on network traffic  
+- ✉️ **[Spam Classification](https://github.com/firdeus-dikellari/Spam_Classification)** — NLP-based spam filter with exploration of backdoor poisoning in training data  
+- 🤖 **[Dardan - The Albanian Robot](./Dardan.md)** — Building the first robot to understand and speak Albanian (project overview)
 
 ---
 
@@ -51,34 +52,40 @@ I build from the ground up — and break to learn.
 
 <h3>🧑‍💻 Cybersecurity Focus</h3>
 
-- 🎯 Red Teaming & Offensive Security
-- 🧠 Adversarial AI & Model Exploitation
-- 🕵️ Malware & Network Traffic Analysis
-- 🔍 CTFs, Labs, and Ethical Hacking
-- 📡 Wireshark, Burp Suite, Nmap, Metasploit
-- 💬 Prompt Injection & LLM Abuse
+- 🎯 **AI Red Teaming & Model Exploitation** – Adversarial attacks, prompt injection, data poisoning  
+- 🔐 **Network & Web App Penetration Testing** – Internal/external assessments, vulnerability discovery  
+- 📱 **Mobile & Reverse Engineering** – Android app analysis, crypto bypass, static/dynamic RE  
+- 🕵️ **OSINT & Automation** – Recon workflows, tooling with Python & Bash  
+- 🐞 **Bug Bounty & CTF Challenges** – Active participant in web and AI-focused bounties  
+- 🔍 **Tools**: Nmap, Burp Suite, Wireshark, Metasploit, Ghidra, Frida, SQLMap
 
 ---
 
 <h3>🎓 Certifications & Education</h3>
 
-- ✅ EC-Council **C|CT** (Certified Cybersecurity Technician)  
-- 🎯 Studying for **OSCP** & **CEH**  
-- 🏫 Computer Science student at **CIT**
+- ✅ **eLearnSecurity Junior Penetration Tester (eJPT) → PJPT**  
+- 🎯 **Certified Penetration Testing Specialist (CPTS)** – In Progress  
+- 🏫 **B.Sc. Computer Engineering & IT** – City University of Tirana (CIT)
 
 ---
 
 <h3>📫 Connect With Me</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/firdeus-dikellari" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firdeus-dikellari" height="30" width="40" />
-</a>
+  <a href="https://linkedin.com/in/firdeus-dikellari" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
 ---
 
 <h3>📌 Quote I Live By</h3>
 
-> "Security isn’t a feature — it’s a mindset. I build, break, and rebuild smarter systems every day."
+> "Break the system to understand it. Rebuild it to secure it. Teach it to speak your language."
 
+---
+
+<h3>✨ Fun Fact</h3>
+
+I'm building **Dardan** — the world’s first robot that understands and speaks **Albanian**.  
+Check out `Dardan.md` to learn more about this passion project bridging AI, language, and cultural innovation.
