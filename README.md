@@ -91,9 +91,3 @@ When I'm not hacking labs or training models, I'm building **Dardan**, the first
 
 I built **Dardan**, the first robot that understands and speaks **Albanian**.  
 Bridging AI, language, and cultural innovation one algorithm at a time! 🇦🇱
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=firdeus-dikellari&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
