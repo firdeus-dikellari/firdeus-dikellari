@@ -122,9 +122,8 @@ First Albanian-speaking robot combining language preservation with embedded syst
 
 ---
 
-## Certifications & Education
+## Certifications & Recognitions
 
-**Certifications:**
 - ECSC 2025 Certificate of Participation — ENISA
 - Practical Junior Penetration Tester (PJPT) — TCM Security
 - YouthPass Certificate (AI Security Workshop Lead Instructor) — European Commission
