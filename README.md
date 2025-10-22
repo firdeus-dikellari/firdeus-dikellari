@@ -125,12 +125,9 @@ First Albanian-speaking robot combining language preservation with embedded syst
 ## Certifications & Education
 
 **Certifications:**
-- ECSC 2025 Certificate of Participation — ENISA | Hardware Security Track
-- Certified Cybersecurity Technician (CCT) — EC-Council
+- ECSC 2025 Certificate of Participation — ENISA
 - Practical Junior Penetration Tester (PJPT) — TCM Security
 - YouthPass Certificate (AI Security Workshop Lead Instructor) — European Commission
-- Networking Essentials — Cisco Networking Academy
-- Python Essentials 1 — Cisco Networking Academy
 
 **In Progress:**
 - CPTS (Certified Penetration Testing Specialist) — HTB Academy
