@@ -1,43 +1,43 @@
-<h1 align="center">Hi, I'm Firdeus Dikellari 👋</h1>
+<h1 align="center">Hi, I'm Firdeus Dikellari</h1>
 <h3 align="center">Cyber Security Engineer | Penetration Tester | Hardware Security Researcher</h3>
 
 <p align="center">
-  🎓 Computer Engineering & IT @ CIT | 🇦🇱 Team Albania @ ECSC 2025 | 🥉 3rd Place CyberWave CTF
+  Computer Engineering & IT @ CIT | Team Albania @ ECSC 2025 | 3rd Place CyberWave CTF
 </p>
 
 ---
 
-## 🔍 About Me
+## About Me
 
-Cybersecurity engineer specializing in **penetration testing, threat emulation, and security infrastructure design**. Selected to represent **Team Albania at ECSC 2025** (European Cyber Security Challenge) competing in hardware hacking and embedded systems security.
+Cybersecurity engineer specializing in penetration testing, adversary emulation, and security infrastructure design. Selected to represent Team Albania at ECSC 2025 (European Cyber Security Challenge) competing in hardware hacking and embedded systems security.
 
-Currently building enterprise-grade security labs, competing in CTFs, and researching the intersection of **AI security, firmware analysis, and threat hunting**.
+Currently building enterprise-grade security labs, competing in CTFs, and researching the intersection of AI security, firmware analysis, and offensive security techniques.
 
 **Core Focus Areas:**
-- 🔴 **Offensive Security**: Penetration testing, red team operations, exploitation
-- 🔵 **Defensive Security**: SIEM deployment, threat detection, system hardening  
-- 🔧 **Hardware Security**: Firmware analysis, embedded systems, IoT security
-- 🤖 **AI Security**: Adversarial ML, model exploitation, AI red teaming
-- 📚 **Security Education**: Teaching assistant, CTF design, workshop instruction
+- Offensive Security: Penetration testing, red team operations, exploitation
+- Defensive Security: SIEM deployment, threat detection, system hardening  
+- Hardware Security: Firmware analysis, embedded systems, IoT security
+- AI Security: Adversarial ML, model exploitation, AI red teaming
+- Security Education: Teaching assistant, CTF design, workshop instruction
 
 ---
 
-## 🏆 Achievements & Recognition
+## Achievements & Recognition
 
-- 🇪🇺 **ECSC 2025** — Represented Team Albania at European Cyber Security Challenge (Warsaw, Poland) | Hardware Security Track
-- 🥉 **3rd Place** — SkyExpress CyberWave Tirana CTF (69/78 challenges solved in 24hrs)
-- 🎓 **Lead Instructor** — AI Security Workshop (European Commission, Venice) | YouthPass Certified
-- 👨‍🏫 **Cybersecurity Teaching Assistant** — Designed 15+ penetration testing labs for 30+ students at CIT
-- ✅ **Certified Cybersecurity Technician (CCT)** — EC-Council
-- 🎯 **PJPT** — Practical Junior Penetration Tester (TCM Security)
+- **ECSC 2025** — Represented Team Albania at European Cyber Security Challenge (Warsaw, Poland) | Hardware Security Track
+- **3rd Place** — SkyExpress CyberWave Tirana CTF (69/78 challenges solved in 24hrs)
+- **Lead Instructor** — AI Security Workshop (European Commission, Venice) | YouthPass Certified
+- **Cybersecurity Teaching Assistant** — Designed 15+ penetration testing labs for 30+ students at CIT
+- **Certified Cybersecurity Technician (CCT)** — EC-Council
+- **PJPT** — Practical Junior Penetration Tester (TCM Security)
 
 ---
 
-## 🔧 Technical Arsenal
+## Technical Arsenal
 
 ### Security Operations
 ```
-Penetration Testing | Red Team Operations | Adversary Emulation | Threat Hunting
+Penetration Testing | Red Team Operations | Adversary Emulation
 Vulnerability Assessment | System Hardening | Hardware Security Analysis | SIEM Analysis
 ```
 
@@ -72,37 +72,37 @@ Vulnerability Assessment | System Hardening | Hardware Security Analysis | SIEM 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏗️ [Private Home Cloud & Security Infrastructure](https://github.com/firdeus-dikellari/homelab)
+### [Private Home Cloud & Security Infrastructure](https://github.com/firdeus-dikellari/homelab)
 Enterprise-grade private cloud with 8+ VMs, zero-trust architecture, and 24/7 security monitoring.
 - **Tech Stack**: Proxmox, Wazuh SIEM, Suricata IDS/IPS, WireGuard, Docker, Kubernetes
 - **Security Features**: 500+ custom IDS signatures, VLAN segmentation, automated patching, CIS hardening
 - **Monitoring**: Centralized log aggregation, threat detection rules, disaster recovery procedures
 
-### 🎯 [AI Security CTF](https://github.com/firdeus-dikellari/AI-Security-CTF)
+### [AI Security CTF](https://github.com/firdeus-dikellari/AI-Security-CTF)
 Designed and led comprehensive AI-focused CTF with red/blue team challenges exploring adversarial ML attacks.
 - **Challenges**: Prompt injection, data poisoning, model exploitation, adversarial attacks
 - **Impact**: Trained participants on practical AI threat modeling and defensive strategies
 - **Recognition**: Featured workshop at European Commission AI Security event (Venice, 2025)
 
-### 🔍 [Security-Focused Steganography Detection System](https://github.com/firdeus-dikellari/stego-detection)
+### [Security-Focused Steganography Detection System](https://github.com/firdeus-dikellari/stego-detection)
 ML-powered detection system for identifying covert data exfiltration via image steganography.
 - **Dataset**: 2,000+ images with LSB steganography payloads for binary classification
 - **Techniques**: Histogram analysis, DCT coefficient detection, chi-square tests
 - **Application**: DLP bypass detection, APT C2 communication identification
 
-### 🔐 [Malware Classification](https://github.com/firdeus-dikellari/Malware-Classification)
+### [Malware Classification](https://github.com/firdeus-dikellari/Malware-Classification)
 ML-powered malware detection using behavioral analysis and classification algorithms.
 - **Approach**: Feature extraction from malware behavior patterns
 - **Models**: Random Forest, SVM, Neural Networks for multi-class classification
 
-### 🌐 [Network Anomaly Detection](https://github.com/firdeus-dikellari/Network-Anomaly-Detection)
+### [Network Anomaly Detection](https://github.com/firdeus-dikellari/Network-Anomaly-Detection)
 Real-time intrusion detection using unsupervised learning on network traffic.
 - **Techniques**: Clustering algorithms for baseline establishment
 - **Detection**: Identifies zero-day attacks and unknown threat patterns
 
-### 🤖 [Dardan - Albanian-Speaking Educational Robot](https://github.com/firdeus-dikellari/Dardan-Al/)
+### [Dardan - Albanian-Speaking Educational Robot](https://github.com/firdeus-dikellari/Dardan-Al/)
 First Albanian-speaking robot combining language preservation with embedded systems security.
 - **Tech Stack**: Python, TensorFlow, PyTorch, Raspberry Pi, LLM deployment
 - **Security Focus**: Secure boot, input validation, encrypted communications
@@ -110,7 +110,7 @@ First Albanian-speaking robot combining language preservation with embedded syst
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=firdeus-dikellari&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -122,34 +122,33 @@ First Albanian-speaking robot combining language preservation with embedded syst
 
 ---
 
-## 🎓 Certifications & Education
+## Certifications & Education
 
 **Certifications:**
-- 🏆 ECSC 2025 Certificate of Participation — ENISA | Hardware Security Track
-- ✅ Certified Cybersecurity Technician (CCT) — EC-Council
-- 🎯 Practical Junior Penetration Tester (PJPT) — TCM Security
-- 🎓 YouthPass Certificate (AI Security Workshop Lead Instructor) — European Commission
-- 📡 Networking Essentials — Cisco Networking Academy
-- 🐍 Python Essentials 1 — Cisco Networking Academy
+- ECSC 2025 Certificate of Participation — ENISA | Hardware Security Track
+- Certified Cybersecurity Technician (CCT) — EC-Council
+- Practical Junior Penetration Tester (PJPT) — TCM Security
+- YouthPass Certificate (AI Security Workshop Lead Instructor) — European Commission
+- Networking Essentials — Cisco Networking Academy
+- Python Essentials 1 — Cisco Networking Academy
 
 **In Progress:**
-- 🔄 CPTS (Certified Penetration Testing Specialist) — HTB Academy
+- CPTS (Certified Penetration Testing Specialist) — HTB Academy
 
 **Education:**
-- 🎓 B.Sc. Computer Engineering & IT — Canadian Institute of Technology (2024-2027)
+- B.Sc. Computer Engineering & IT — Canadian Institute of Technology (2024-2027)
 
 ---
 
-## 📝 Latest Research & Content
+## Latest Research & Content
 
-- 📚 **AI Security Workshop** — Led hands-on training on adversarial ML attacks (European Commission, Venice)
-- 🎤 **Cybersecurity Labs** — Designed 15+ penetration testing labs covering OWASP Top 10, privilege escalation, AD attacks
-- 🏅 **CTF Writeups** — Coming soon: ECSC 2025 and CyberWave CTF challenge solutions
-- 🔬 **Threat Hunting Research** — Firmware-level mobile threat detection (In progress)
+- **AI Security Workshop** — Led hands-on training on adversarial ML attacks (European Commission, Venice)
+- **Cybersecurity Labs** — Designed 15+ penetration testing labs covering OWASP Top 10, privilege escalation, AD attacks
+- **CTF Writeups** — Coming soon: ECSC 2025 and CyberWave CTF challenge solutions
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="center">
 <a href="https://linkedin.com/in/firdeus-dikellari" target="blank">
@@ -162,19 +161,9 @@ First Albanian-speaking robot combining language preservation with embedded syst
 
 ---
 
-## 💭 Philosophy
+## Philosophy
 
 > *"Security is not about knowing every exploit—it's about understanding how systems fail and building defenses that adapt. I don't just test systems; I teach them to defend themselves."*
-
----
-
-## 🎯 Current Focus (2025)
-
-- 🔬 Developing firmware-level threat hunting framework for mobile devices
-- 🏆 Competing in international CTF competitions (targeting DEF CON qualifiers)
-- 📚 Pursuing CPTS and planning OSCP certification
-- 🎤 Preparing conference submissions for BSides circuit and Blue Team Con
-- 🔐 Building open-source security tools and publishing research
 
 ---
 
@@ -183,5 +172,5 @@ First Albanian-speaking robot combining language preservation with embedded syst
 </p>
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/firdeus-dikellari">firdeus-dikellari</a> | Securing systems one vulnerability at a time 🔐</i>
+  <i>From <a href="https://github.com/firdeus-dikellari">firdeus-dikellari</a> | Securing systems one vulnerability at a time</i>
 </p>
