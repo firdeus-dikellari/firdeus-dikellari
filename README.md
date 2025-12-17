@@ -81,12 +81,6 @@ ML-powered detection system for identifying covert data exfiltration via image s
 - **Techniques**: Histogram analysis, DCT coefficient detection, chi-square tests
 - **Application**: DLP bypass detection, APT C2 communication identification
 
-### [Dardan - Albanian-Speaking Educational Robot](https://github.com/firdeus-dikellari/Dardan-Al/)
-First Albanian-speaking robot combining language preservation with embedded systems security.
-- **Tech Stack**: Python, TensorFlow, PyTorch, Raspberry Pi, LLM deployment
-- **Security Focus**: Secure boot, input validation, encrypted communications
-- **Recognition**: Presented at international event with EU representatives
-
 ---
 
 ## GitHub Stats
