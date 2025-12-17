@@ -41,17 +41,6 @@ Penetration Testing | Red Team Operations | Adversary Emulation
 Vulnerability Assessment | System Hardening | Hardware Security Analysis
 ```
 
-### Security Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/Nmap-0078D4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
-</p>
-
-**Tools**: Metasploit Framework, Burp Suite, Nmap, Wireshark, Wazuh SIEM, Suricata IDS/IPS, Snort, Fail2Ban, John The Ripper, Hashcat, Ghidra, BloodHound, SQLMap
-
 ### Infrastructure & Development
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
