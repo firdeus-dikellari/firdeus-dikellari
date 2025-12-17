@@ -126,14 +126,6 @@ First Albanian-speaking robot combining language preservation with embedded syst
 
 ---
 
-## Latest Research & Content
-
-- **AI Security Workshop** — Led hands-on training on adversarial ML attacks (European Commission, Venice)
-- **Cybersecurity Labs** — Designed 15+ penetration testing labs covering OWASP Top 10, privilege escalation, AD attacks
-- **CTF Writeups** — Coming soon: ECSC 2025 and CyberWave CTF challenge solutions
-
----
-
 ## Let's Connect
 
 <p align="center">
