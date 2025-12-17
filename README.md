@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Firdeus Dikellari</h1>
-<h3 align="center">Cyber Security Engineer | Penetration Tester | Hardware Security Researcher</h3>
+<h3 align="center">Security Engineer | Penetration Tester | Hardware Security Researcher</h3>
 
 <p align="center">
-  Computer Engineering & IT @ CIT | Team Albania @ ECSC 2025 | 3rd Place CyberWave CTF
+  Security Engineer @ CIT | DEFCON Prishtina Member | Team Albania @ ECSC 2025 | 3rd Place CyberWave CTF
 </p>
 
 ---
 
 ## About Me
 
-Cybersecurity engineer specializing in penetration testing, adversary emulation, and security infrastructure design. Selected to represent Team Albania at ECSC 2025 (European Cyber Security Challenge) competing in hardware hacking and embedded systems security.
+Security engineer specializing in penetration testing, adversary emulation, and security infrastructure design. Selected to represent Team Albania at ECSC 2025 (European Cyber Security Challenge) competing in hardware hacking and embedded systems security. Active member of DEFCON Prishtina, contributing to the local cybersecurity community.
 
 Currently building enterprise-grade security labs, competing in CTFs, and researching the intersection of AI security, firmware analysis, and offensive security techniques.
 
@@ -92,16 +92,6 @@ ML-powered detection system for identifying covert data exfiltration via image s
 - **Techniques**: Histogram analysis, DCT coefficient detection, chi-square tests
 - **Application**: DLP bypass detection, APT C2 communication identification
 
-### [Malware Classification](https://github.com/firdeus-dikellari/Malware-Classification)
-ML-powered malware detection using behavioral analysis and classification algorithms.
-- **Approach**: Feature extraction from malware behavior patterns
-- **Models**: Random Forest, SVM, Neural Networks for multi-class classification
-
-### [Network Anomaly Detection](https://github.com/firdeus-dikellari/Network-Anomaly-Detection)
-Real-time intrusion detection using unsupervised learning on network traffic.
-- **Techniques**: Clustering algorithms for baseline establishment
-- **Detection**: Identifies zero-day attacks and unknown threat patterns
-
 ### [Dardan - Albanian-Speaking Educational Robot](https://github.com/firdeus-dikellari/Dardan-Al/)
 First Albanian-speaking robot combining language preservation with embedded systems security.
 - **Tech Stack**: Python, TensorFlow, PyTorch, Raspberry Pi, LLM deployment
@@ -157,16 +147,6 @@ First Albanian-speaking robot combining language preservation with embedded syst
 
 ---
 
-## Philosophy
-
-> *"Security is not about knowing every exploit—it's about understanding how systems fail and building defenses that adapt. I don't just test systems; I teach them to defend themselves."*
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=firdeus-dikellari&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <i>From <a href="https://github.com/firdeus-dikellari">firdeus-dikellari</a> | Securing systems one vulnerability at a time</i>
 </p>
