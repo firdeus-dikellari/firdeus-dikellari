@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Firdeus Dikellari</h1>
-<h3 align="center">Security Engineer | Penetration Tester | Hardware Security Researcher</h3>
+<h3 align="center">Security Engineer | Penetration Tester | Hardware Security Hobbyist</h3>
 
 <p align="center">
   Security Engineer @ CIT | DEFCON Prishtina Member | Team Albania @ ECSC 2025
@@ -38,7 +38,7 @@ Currently building enterprise-grade security labs, competing in CTFs, and resear
 ### Security Operations
 ```
 Penetration Testing | Red Team Operations | Adversary Emulation
-Vulnerability Assessment | System Hardening | Hardware Security Analysis | SIEM Analysis
+Vulnerability Assessment | System Hardening | Hardware Security Analysis
 ```
 
 ### Security Tools & Platforms
