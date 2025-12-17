@@ -28,7 +28,6 @@ Currently building enterprise-grade security labs, competing in CTFs, and resear
 - **3rd Place** — SkyExpress CyberWave Tirana CTF (69/78 challenges solved in 24hrs)
 - **Lead Instructor** — AI Security Workshop (European Commission, Venice) | YouthPass Certified
 - **Cybersecurity Teaching Assistant** — Designed 15+ penetration testing labs for 30+ students at CIT
-- **Certified Cybersecurity Technician (CCT)** — EC-Council
 - **PJPT** — Practical Junior Penetration Tester (TCM Security)
 
 ---
