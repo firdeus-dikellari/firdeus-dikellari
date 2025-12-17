@@ -2,7 +2,7 @@
 <h3 align="center">Security Engineer | Penetration Tester | Hardware Security Researcher</h3>
 
 <p align="center">
-  Security Engineer @ CIT | DEFCON Prishtina Member | Team Albania @ ECSC 2025 | 3rd Place CyberWave CTF
+  Security Engineer @ CIT | DEFCON Prishtina Member | Team Albania @ ECSC 2025
 </p>
 
 ---
@@ -28,10 +28,7 @@ Currently building enterprise-grade security labs, competing in CTFs, and resear
 ## Achievements & Recognition
 
 - **ECSC 2025** — Represented Team Albania at European Cyber Security Challenge (Warsaw, Poland) | Hardware Security Track
-- **3rd Place** — SkyExpress CyberWave Tirana CTF (69/78 challenges solved in 24hrs)
 - **Lead Instructor** — AI Security Workshop (European Commission, Venice) | YouthPass Certified
-- **Cybersecurity Teaching Assistant** — Designed 15+ penetration testing labs for 30+ students at CIT
-- **Certified Cybersecurity Technician (CCT)** — EC-Council
 - **PJPT** — Practical Junior Penetration Tester (TCM Security)
 
 ---
