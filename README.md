@@ -26,27 +26,19 @@
 
 Offensive security practitioner and security engineer at the **Canadian Institute of Technology** in Tirana. I build things that break other things — AD attack labs, SIEM pipelines, CTF platforms, and AI robots. PJPT certified, Team Albania ECSC representative, 3rd place at Albania's National Cybersecurity Marathon.
 
-I go by **0xillyrian** in CTF circles. Currently studying post-compromise AD techniques and building an HTB-style cybersecurity platform for the university.
+I go by **0xillyrian** in CTF circles. 
 
 ---
 
 ## `ls -la /experience`
 
 ### 🔐 Security Engineer — CIT *(Oct 2025 – Present)*
-- Designed AD infrastructure supporting **450+ endpoints**; deployed Wazuh SIEM ingesting logs from **50+ systems** with attack-focused detection rules
+- Designed AD infrastructure supporting **250+ endpoints**; deployed Wazuh SIEM ingesting logs from **50+ systems** with attack-focused detection rules
 - Integrated Windows Event Logs + Sysmon telemetry — cut detection time for common attack patterns from **hours → minutes**
 - Built a multi-tenant offensive security lab on **Proxmox** running **20+ VMs** across Linux, Windows, and full AD attack scenarios
 - Developed **15+ structured AD & web exploitation labs** covering LLMNR poisoning, SMB relay, Kerberoasting, Pass-the-Hash, SQLi, XSS, command injection
 - Currently automating vulnerability scanning workflows with **OpenVAS + Nuclei** for scheduled infrastructure assessments
 - Deployed **WireGuard VPN** enabling secure remote access for 30+ students; led weekly 2-hour hands-on offensive security sessions
-
-### 🖥️ IT Support — CIT *(Jan 2025 – Aug 2025)*
-- Maintained and supported **450+ campus computer lab systems**
-- Implemented security baselines and hardened configurations across educational infrastructure
-
-### 🎓 Teaching Assistant — CIT *(Nov 2024 – May 2025)*
-- Designed and delivered **15+ cybersecurity labs** covering Linux fundamentals, networking, OWASP Top 10, and exploitation for 30+ undergrads
-- Led offensive security workshops; mentored on Metasploit, Burp Suite, Wireshark, and foundational exploitation techniques
 
 ---
 
@@ -56,8 +48,7 @@ I go by **0xillyrian** in CTF circles. Currently studying post-compromise AD tec
 |---|---|---|
 | [**AI Security CTF**](https://github.com/firdeus-dikellari/AI-Security-CTF) | Red/Blue team CTF covering prompt injection, data poisoning, adversarial ML, and model exploitation | Python, Azure, DigitalOcean |
 | [**Private Cloud Infrastructure**](https://github.com/firdeus-dikellari) | Self-hosted Proxmox cloud running Nextcloud for secure institutional file hosting | Proxmox, Nextcloud, Linux |
-| [**Dardan — Albanian AI Robot**](https://github.com/firdeus-dikellari/Dardan-Al) | First Albanian-speaking AI robot with multilingual support (9+ languages), computer vision emotion detection, and conversational AI. Presented at EU COST forum, covered by EuroNews | Python, YOLOv8, NLP |
-| **CyberRecruits Lab** | University outreach cybersecurity lab for high school students — HTB-style platform | Python, Docker |
+| [**Dardan — Albanian AI Robot**](https://github.com/firdeus-dikellari/Dardan-Al) | First Albanian-speaking AI robot with multilingual support (9+ languages), computer vision emotion detection, and conversational AI. Presented at EU COST forum, covered by EuroNews | Python, PyTorch, TensorFlow |
 | **University Network Redesign** | Full enterprise network and security stack redesign: OPNsense, MikroTik, Cisco, Security Onion, Velociraptor, TheHive, Shuffle | Multi-vendor, full-stack |
 
 ---
@@ -86,13 +77,13 @@ Keynote to 200+ students and faculty on AI/ML in SOC automation and incident res
 
 ```yaml
 offensive_security:
-  - Web Application Testing (SQLi, XSS, IDOR, Command Injection)
-  - Active Directory Attacks (LLMNR Poisoning, Kerberoasting, Pass-the-Hash, MITM6)
+  - Web Application Testing 
+  - Active Directory Attacks
   - Network Enumeration & Post-Exploitation
 
 tools:
   red_team:   [Metasploit, Burp Suite, BloodHound, CrackMapExec, Responder, Mimikatz, PowerView]
-  blue_team:  [Wazuh, Security Onion, Velociraptor, TheHive, Shuffle, OpenVAS, Nuclei, PingCastle]
+  blue_team:  [Wazuh, Security Onion, Velociraptor, TheHive, Shuffle, OpenVAS, Nuclei ]
   networking: [Nmap, Wireshark, WireGuard, OPNsense, MikroTik]
 
 systems:      [Linux, Windows Server, Active Directory, Proxmox]
