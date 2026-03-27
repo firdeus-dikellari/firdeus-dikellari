@@ -2,21 +2,21 @@
 <h3 align="center">Security Engineer | Penetration Tester | UAV & Hardware Security Enthusiast</h3>
 
 <p align="center">
-  Security Engineer @ Canadian Institute of Technology | ECSC Team Albania Representative
+  Security Engineer @ Canadian Institute of Technology | [cite_start]ECSC Team Albania Representative [cite: 3]
 </p>
 
 ---
 
 ## About Me
 
-I am an offensive security practitioner and B.Sc. [cite_start]Computer Engineering student [cite: 3] [cite_start]specializing in penetration testing, enterprise infrastructure design, and automated security workflows[cite: 3]. [cite_start]Currently, I serve as a Security Engineer at the Canadian Institute of Technology, where I architect Active Directory environments and deploy SIEM solutions for university-scale infrastructure[cite: 3].
+I am an offensive security practitioner and B.Sc. [cite_start]Computer Engineering student specializing in penetration testing, enterprise infrastructure design, and automated security workflows[cite: 3]. [cite_start]Currently, I serve as a Security Engineer at the Canadian Institute of Technology, where I architect Active Directory environments and deploy SIEM solutions for university-scale infrastructure[cite: 3].
 
-[cite_start]I represent Team Albania at the European Cyber Security Challenge (ECSC) [cite: 3] [cite_start]and am actively involved in the intersection of AI safety and hardware security[cite: 3, 4]. Beyond the terminal, I engineer 3D-printed UAVs for humanitarian medical delivery and infrastructure inspection.
+[cite_start]I represent Team Albania at the European Cyber Security Challenge (ECSC) and am actively involved in the intersection of AI safety and hardware security[cite: 3]. Beyond the terminal, I engineer 3D-printed UAVs for humanitarian medical delivery and infrastructure inspection.
 
 **Core Focus Areas:**
 - [cite_start]**Offensive Security:** AD exploitation (LLMNR, Kerberoasting), web testing (OWASP Top 10), and automated vulnerability scanning[cite: 3, 4].
-- [cite_start]**Defensive Engineering:** Wazuh SIEM deployment, Sysmon telemetry integration, and secure VPN architecture[cite: 3, 4].
-- [cite_start]**AI & Hardware:** Adversarial ML, prompt injection research, and SDR-based signal analysis[cite: 3, 4].
+- [cite_start]**Defensive Engineering:** Wazuh SIEM deployment, Sysmon telemetry integration, and secure VPN architecture[cite: 3].
+- [cite_start]**AI & Hardware:** Adversarial ML, prompt injection research, and SDR-based signal analysis[cite: 3].
 
 ---
 
@@ -32,10 +32,8 @@ I am an offensive security practitioner and B.Sc. [cite_start]Computer Engineeri
 ## Technical Arsenal
 
 ### Security Operations
-```
 Active Directory Security | Web Application Testing | Vulnerability Automation
 SIEM Implementation (Wazuh) | Network Enumeration | Adversarial AI Testing
-```
 
 ### Infrastructure & Development
 <p align="left">
@@ -51,7 +49,7 @@ SIEM Implementation (Wazuh) | Network Enumeration | Adversarial AI Testing
 
 [cite_start]**Platforms**: Proxmox, Wazuh, OpenVAS, Nuclei, MikroTik, Cisco[cite: 3, 4].  
 [cite_start]**Languages**: Python, Bash, PowerShell, Java[cite: 4].  
-[cite_start]**Tools**: Burp Suite, BloodHound, CrackMapExec, Responder, Mimikatz, PineCastle[cite: 4].
+[cite_start]**Tools**: Burp Suite, BloodHound, CrackMapExec, Responder, Mimikatz, PingCastle[cite: 4].
 
 ---
 
@@ -60,7 +58,7 @@ SIEM Implementation (Wazuh) | Network Enumeration | Adversarial AI Testing
 ### [University Security Infrastructure & SIEM Deployment](https://github.com/firdeus-dikellari)
 [cite_start]Architected and deployed enterprise AD infrastructure for 450+ endpoints[cite: 3].
 - [cite_start]**Automation**: Developing Python/Bash workflows for OpenVAS and Nuclei scheduled assessments[cite: 3].
-- [cite_start]**Detection**: Configured Wazuh SIEM for 50+ systems using attack-focused rules to reduce detection time to minutes[cite: 3].
+- [cite_start]**Detection**: Configured Wazuh SIEM for 50+ systems using attack-focused rules to reduce detection time[cite: 3].
 - [cite_start]**Training**: Built Proxmox-based offensive labs hosting 20+ VMs for student exploitation sessions[cite: 3].
 
 ### [AI Security Battleground & CTF](https://github.com/firdeus-dikellari/AI-Security-CTF)
@@ -86,9 +84,8 @@ SIEM Implementation (Wazuh) | Network Enumeration | Adversarial AI Testing
 
 - **B.Sc. [cite_start]Computer Engineering & IT** — Canadian Institute of Technology (2024–2027)[cite: 3].
 - [cite_start]**PJPT** — Practical Junior Penetration Tester[cite: 3].
-- [cite_start]**Sentry AI Security Research** — Apprentice[cite: 4].
 
-[cite_start]**Current Pursuit:** Automated Vulnerability Scanning Workflows & Humanitarian UAV Design[cite: 3].
+**Current Pursuit:** Automated Vulnerability Scanning Workflows & Humanitarian UAV Design.
 
 ---
 
@@ -108,4 +105,3 @@ SIEM Implementation (Wazuh) | Network Enumeration | Adversarial AI Testing
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=firdeus-dikellari&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-```
