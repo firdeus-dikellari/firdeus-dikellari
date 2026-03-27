@@ -75,7 +75,15 @@ First Albanian-speaking AI robot featuring real-time emotion detection and multi
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=firdeus-dikellari&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=firdeus-dikellari&show_icons=true&theme=radical&rank_icon=github" alt="Firdeus's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdeus-dikellari&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firdeus-dikellari&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
