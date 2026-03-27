@@ -2,7 +2,7 @@
 <h3 align="center">Security Engineer | Penetration Tester | UAV & Hardware Security Enthusiast</h3>
 
 <p align="center">
-  Security Engineer @ Canadian Institute of Technology | ECSC Team Albania Representative | Sentry AI Security Apprentice
+  Security Engineer @ Canadian Institute of Technology | ECSC Team Albania Representative
 </p>
 
 ---
