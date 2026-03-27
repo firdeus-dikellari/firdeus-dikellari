@@ -88,7 +88,6 @@ tools:
 
 systems:      [Linux, Windows Server, Active Directory, Proxmox]
 languages:    [Python, Bash, PowerShell, C, Java]
-notes_app:    Obsidian  # ask me about my AD attack vault
 ```
 
 ---
