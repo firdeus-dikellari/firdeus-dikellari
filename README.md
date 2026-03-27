@@ -2,30 +2,30 @@
 <h3 align="center">Security Engineer | Penetration Tester | UAV & Hardware Security Enthusiast</h3>
 
 <p align="center">
-  Security Engineer @ Canadian Institute of Technology | ECSC Team Albania Representative [cite: 3]
+  Security Engineer @ Canadian Institute of Technology | ECSC Team Albania Representative 
 </p>
 
 ---
 
 ## About Me
 
-I am an offensive security practitioner and B.Sc. Computer Engineering student specializing in penetration testing, enterprise infrastructure design, and automated security workflows[cite: 3]. Currently, I serve as a Security Engineer at the Canadian Institute of Technology, where I architect Active Directory environments and deploy SIEM solutions for university-scale infrastructure[cite: 3].
+I am an offensive security practitioner and B.Sc. Computer Engineering student specializing in penetration testing, enterprise infrastructure design, and automated security workflows. Currently, I serve as a Security Engineer at the Canadian Institute of Technology, where I architect Active Directory environments and deploy SIEM solutions for university-scale infrastructure.
 
-I represent Team Albania at the European Cyber Security Challenge (ECSC) and am actively involved in the intersection of AI safety and hardware security[cite: 3]. Beyond the terminal, I engineer 3D-printed UAVs for humanitarian medical delivery and infrastructure inspection.
+I represent Team Albania at the European Cyber Security Challenge (ECSC) and am actively involved in the intersection of AI safety and hardware security. Beyond the terminal, I engineer 3D-printed UAVs for humanitarian medical delivery and infrastructure inspection.
 
 **Core Focus Areas:**
-- **Offensive Security:** AD exploitation (LLMNR, Kerberoasting), web testing (OWASP Top 10), and automated vulnerability scanning[cite: 3, 4].
-- **Defensive Engineering:** Wazuh SIEM deployment, Sysmon telemetry integration, and secure VPN architecture[cite: 3].
-- **AI & Hardware:** Adversarial ML, prompt injection research, and SDR-based signal analysis[cite: 3].
+- **Offensive Security:** AD exploitation (LLMNR, Kerberoasting), web testing (OWASP Top 10), and automated vulnerability scanning.
+- **Defensive Engineering:** Wazuh SIEM deployment, Sysmon telemetry integration, and secure VPN architecture.
+- **AI & Hardware:** Adversarial ML, prompt injection research, and SDR-based signal analysis.
 
 ---
 
 ## Achievements & Recognition
 
-- **ECSC — Team Albania Representative** | European Cyber Security Challenge[cite: 3].
-- **3rd Place — National Cybersecurity Marathon** | Albania (Dec 2025)[cite: 3].
-- **PJPT** — Practical Junior Penetration Tester | TCM Security (Feb 2026)[cite: 3].
-- **Workshop Lead** — AI Security: Hackers vs Defenders | Venice, Italy[cite: 3].
+- **ECSC — Team Albania Representative** | European Cyber Security Challenge.
+- **3rd Place — National Cybersecurity Marathon** | Albania (Dec 2025).
+- **PJPT** — Practical Junior Penetration Tester | TCM Security (Feb 2026).
+- **Workshop Lead** — AI Security: Hackers vs Defenders | Venice, Italy.
 
 ---
 
@@ -47,28 +47,28 @@ SIEM Implementation (Wazuh) | Network Enumeration | Adversarial AI Testing
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows Server" width="40" height="40"/>
 </p>
 
-**Platforms**: Proxmox, Wazuh, OpenVAS, Nuclei, MikroTik, Cisco[cite: 3, 4].  
-**Languages**: Python, Bash, PowerShell, Java[cite: 4].  
-**Tools**: Burp Suite, BloodHound, CrackMapExec, Responder, Mimikatz, PingCastle[cite: 4].
+**Platforms**: Proxmox, Wazuh, OpenVAS, Nuclei, MikroTik, Cisco.  
+**Languages**: Python, Bash, PowerShell, Java.  
+**Tools**: Burp Suite, BloodHound, CrackMapExec, Responder, Mimikatz, PingCastle.
 
 ---
 
 ## Featured Projects
 
 ### [University Security Infrastructure & SIEM Deployment](https://github.com/firdeus-dikellari)
-Architected and deployed enterprise AD infrastructure for 450+ endpoints[cite: 3].
-- **Automation**: Developing Python/Bash workflows for OpenVAS and Nuclei scheduled assessments[cite: 3].
-- **Detection**: Configured Wazuh SIEM for 50+ systems using attack-focused rules to reduce detection time[cite: 3].
-- **Training**: Built Proxmox-based offensive labs hosting 20+ VMs for student exploitation sessions[cite: 3].
+Architected and deployed enterprise AD infrastructure for 450+ endpoints.
+- **Automation**: Developing Python/Bash workflows for OpenVAS and Nuclei scheduled assessments.
+- **Detection**: Configured Wazuh SIEM for 50+ systems using attack-focused rules to reduce detection time.
+- **Training**: Built Proxmox-based offensive labs hosting 20+ VMs for student exploitation sessions.
 
 ### [AI Security Battleground & CTF](https://github.com/firdeus-dikellari/AI-Security-CTF)
-Led international workshops on AI security fundamentals and adversarial machine learning[cite: 3].
-- **Challenges**: Prompt injection, data poisoning, and model manipulation[cite: 3].
-- **Context**: Presented as a keynote at CIT Student’s Conference on AI in SOC automation[cite: 3].
+Led international workshops on AI security fundamentals and adversarial machine learning.
+- **Challenges**: Prompt injection, data poisoning, and model manipulation.
+- **Context**: Presented as a keynote at CIT Student’s Conference on AI in SOC automation.
 
 ### [Dardan — Albanian AI Robot](https://github.com/firdeus-dikellari)
-First Albanian-speaking AI robot featuring real-time emotion detection and multilingual support[cite: 3].
-- **Recognition**: Presented to COST (European Cooperation in Science and Technology) for innovation in assistive AI[cite: 3].
+First Albanian-speaking AI robot featuring real-time emotion detection and multilingual support.
+- **Recognition**: Presented to COST (European Cooperation in Science and Technology) for innovation in assistive AI.
 
 ---
 
@@ -82,8 +82,8 @@ First Albanian-speaking AI robot featuring real-time emotion detection and multi
 
 ## Education & Certifications
 
-- **B.Sc. Computer Engineering & IT** — Canadian Institute of Technology (2024–2027)[cite: 3].
-- **PJPT** — Practical Junior Penetration Tester[cite: 3].
+- **B.Sc. Computer Engineering & IT** — Canadian Institute of Technology (2024–2027).
+- **PJPT** — Practical Junior Penetration Tester.
 
 **Current Pursuit:** Automated Vulnerability Scanning Workflows & Humanitarian UAV Design.
 
