@@ -1,35 +1,31 @@
 <h1 align="center">Hi, I'm Firdeus Dikellari</h1>
-<h3 align="center">Security Engineer | Penetration Tester | Hardware Security Hobbyist</h3>
+<h3 align="center">Security Engineer | Penetration Tester | UAV & Hardware Security Enthusiast</h3>
 
 <p align="center">
-  Security Engineer @ CIT | DEFCON Prishtina Member | Team Albania @ ECSC 2025
+  Security Engineer @ Canadian Institute of Technology | ECSC Team Albania Representative | Sentry AI Security Apprentice
 </p>
 
 ---
 
 ## About Me
 
-Security engineer specializing in penetration testing, adversary emulation, and security infrastructure design. Selected to represent Team Albania at ECSC 2025 (European Cyber Security Challenge) competing in hardware hacking and embedded systems security. Active member of DEFCON Prishtina, contributing to the local cybersecurity community.
+I am an offensive security practitioner and B.Sc. [cite_start]Computer Engineering student [cite: 3] [cite_start]specializing in penetration testing, enterprise infrastructure design, and automated security workflows[cite: 3]. [cite_start]Currently, I serve as a Security Engineer at the Canadian Institute of Technology, where I architect Active Directory environments and deploy SIEM solutions for university-scale infrastructure[cite: 3].
 
-Currently building enterprise-grade security labs, competing in CTFs, and researching the intersection of AI security, firmware analysis, and offensive security techniques.
+[cite_start]I represent Team Albania at the European Cyber Security Challenge (ECSC) [cite: 3] [cite_start]and am actively involved in the intersection of AI safety and hardware security[cite: 3, 4]. Beyond the terminal, I engineer 3D-printed UAVs for humanitarian medical delivery and infrastructure inspection.
 
 **Core Focus Areas:**
-- Offensive Security: Penetration testing, red team operations, exploitation
-- Defensive Security: SIEM deployment, threat detection, system hardening  
-- AI Security: Adversarial ML, model exploitation, AI red teaming
-
-**Hobbies & Interests:**
-- Hardware Security: Firmware analysis, embedded systems, IoT security
-- Security Education: Teaching assistant, CTF design, workshop instruction
-
+- [cite_start]**Offensive Security:** AD exploitation (LLMNR, Kerberoasting), web testing (OWASP Top 10), and automated vulnerability scanning[cite: 3, 4].
+- [cite_start]**Defensive Engineering:** Wazuh SIEM deployment, Sysmon telemetry integration, and secure VPN architecture[cite: 3, 4].
+- [cite_start]**AI & Hardware:** Adversarial ML, prompt injection research, and SDR-based signal analysis[cite: 3, 4].
 
 ---
 
 ## Achievements & Recognition
 
-- **ECSC 2025** — Represented Team Albania at European Cyber Security Challenge (Warsaw, Poland) | Hardware Security Track
-- **Lead Instructor** — AI Security Workshop (European Commission, Venice) | YouthPass Certified
-- **PJPT** — Practical Junior Penetration Tester (TCM Security)
+- **ECSC — Team Albania Representative** | [cite_start]European Cyber Security Challenge[cite: 3].
+- **3rd Place — National Cybersecurity Marathon** | [cite_start]Albania (Dec 2025)[cite: 3].
+- **PJPT** — Practical Junior Penetration Tester | [cite_start]TCM Security (Feb 2026)[cite: 3].
+- **Workshop Lead** — AI Security: Hackers vs Defenders | [cite_start]Venice, Italy[cite: 3].
 
 ---
 
@@ -37,49 +33,44 @@ Currently building enterprise-grade security labs, competing in CTFs, and resear
 
 ### Security Operations
 ```
-Penetration Testing | Red Team Operations | Adversary Emulation
-Vulnerability Assessment | System Hardening | Hardware Security Analysis
+Active Directory Security | Web Application Testing | Vulnerability Automation
+SIEM Implementation (Wazuh) | Network Enumeration | Adversarial AI Testing
 ```
 
 ### Infrastructure & Development
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/proxmox/proxmox-original.svg" alt="Proxmox" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="Metasploit" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows Server" width="40" height="40"/>
 </p>
 
-**Platforms**: Proxmox, Docker, Kubernetes, VirtualBox, VMware, AWS, Azure  
-**Languages**: Python, Bash, PowerShell, Go, C#  
-**Frameworks**: MITRE ATT&CK, OWASP Top 10, Cyber Kill Chain, CIS Benchmarks
+[cite_start]**Platforms**: Proxmox, Wazuh, OpenVAS, Nuclei, MikroTik, Cisco[cite: 3, 4].  
+[cite_start]**Languages**: Python, Bash, PowerShell, Java[cite: 4].  
+[cite_start]**Tools**: Burp Suite, BloodHound, CrackMapExec, Responder, Mimikatz, PineCastle[cite: 4].
 
 ---
 
 ## Featured Projects
 
-### [Private Home Cloud & Security Infrastructure](https://github.com/firdeus-dikellari/homelab)
-Enterprise-grade private cloud with 8+ VMs, zero-trust architecture, and 24/7 security monitoring.
-- **Tech Stack**: Proxmox, Wazuh SIEM, Suricata IDS/IPS, WireGuard, Docker, Kubernetes
-- **Security Features**: 500+ custom IDS signatures, VLAN segmentation, automated patching, CIS hardening
-- **Monitoring**: Centralized log aggregation, threat detection rules, disaster recovery procedures
+### [University Security Infrastructure & SIEM Deployment](https://github.com/firdeus-dikellari)
+[cite_start]Architected and deployed enterprise AD infrastructure for 450+ endpoints[cite: 3].
+- [cite_start]**Automation**: Developing Python/Bash workflows for OpenVAS and Nuclei scheduled assessments[cite: 3].
+- [cite_start]**Detection**: Configured Wazuh SIEM for 50+ systems using attack-focused rules to reduce detection time to minutes[cite: 3].
+- [cite_start]**Training**: Built Proxmox-based offensive labs hosting 20+ VMs for student exploitation sessions[cite: 3].
 
-### [AI Security CTF](https://github.com/firdeus-dikellari/AI-Security-CTF)
-Designed and led comprehensive AI-focused CTF with red/blue team challenges exploring adversarial ML attacks.
-- **Challenges**: Prompt injection, data poisoning, model exploitation, adversarial attacks
-- **Impact**: Trained participants on practical AI threat modeling and defensive strategies
-- **Recognition**: Featured workshop at European Commission AI Security event (Venice, 2025)
+### [AI Security Battleground & CTF](https://github.com/firdeus-dikellari/AI-Security-CTF)
+[cite_start]Led international workshops on AI security fundamentals and adversarial machine learning[cite: 3].
+- [cite_start]**Challenges**: Prompt injection, data poisoning, and model manipulation[cite: 3].
+- [cite_start]**Context**: Presented as a keynote at CIT Student’s Conference on AI in SOC automation[cite: 3].
 
-### [Security-Focused Steganography Detection System](https://github.com/firdeus-dikellari/stego-detection)
-ML-powered detection system for identifying covert data exfiltration via image steganography.
-- **Dataset**: 2,000+ images with LSB steganography payloads for binary classification
-- **Techniques**: Histogram analysis, DCT coefficient detection, chi-square tests
-- **Application**: DLP bypass detection, APT C2 communication identification
+### [Dardan — Albanian AI Robot](https://github.com/firdeus-dikellari)
+[cite_start]First Albanian-speaking AI robot featuring real-time emotion detection and multilingual support[cite: 3].
+- [cite_start]**Recognition**: Presented to COST (European Cooperation in Science and Technology) for innovation in assistive AI[cite: 3].
 
 ---
 
@@ -89,23 +80,15 @@ ML-powered detection system for identifying covert data exfiltration via image s
   <img src="https://github-readme-stats.vercel.app/api?username=firdeus-dikellari&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firdeus-dikellari&theme=radical" alt="GitHub Streak" />
-</p>
-
 ---
 
-## Certifications & Recognitions
+## Education & Certifications
 
-- ECSC 2025 Certificate of Participation — ENISA
-- Practical Junior Penetration Tester (PJPT) — TCM Security
-- YouthPass Certificate (AI Security Workshop Lead Instructor) — European Commission
+- **B.Sc. [cite_start]Computer Engineering & IT** — Canadian Institute of Technology (2024–2027)[cite: 3].
+- [cite_start]**PJPT** — Practical Junior Penetration Tester[cite: 3].
+- [cite_start]**Sentry AI Security Research** — Apprentice[cite: 4].
 
-**In Progress:**
-- CPTS (Certified Penetration Testing Specialist) — HTB Academy
-
-**Education:**
-- B.Sc. Computer Engineering & IT — Canadian Institute of Technology (2024-2027)
+[cite_start]**Current Pursuit:** Automated Vulnerability Scanning Workflows & Humanitarian UAV Design[cite: 3].
 
 ---
 
@@ -115,7 +98,7 @@ ML-powered detection system for identifying covert data exfiltration via image s
 <a href="https://linkedin.com/in/firdeus-dikellari" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<a href="mailto:firdeus.dikellari@cit.edu.al">
+<a href="mailto:firdeusdikellari1@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="30"/>
 </a>
 </p>
@@ -125,3 +108,4 @@ ML-powered detection system for identifying covert data exfiltration via image s
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=firdeus-dikellari&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+```
