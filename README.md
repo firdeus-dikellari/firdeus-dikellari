@@ -11,7 +11,7 @@
 
 ### `whoami`
 **Security Engineer · Offensive Security Practitioner · Builder**  
-*Tirana, Albania* · handle: **0xillyrian**
+*Tirana, Albania* · handle: **DK725**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firdeus-dikellari/)
 [![PJPT](https://img.shields.io/badge/PJPT-Certified-red?style=flat-square)](https://tcm-sec.com/)
@@ -26,7 +26,7 @@
 
 Offensive security practitioner and security engineer at the **Canadian Institute of Technology** in Tirana. I build things that break other things — AD attack labs, SIEM pipelines, CTF platforms, and AI robots. PJPT certified, Team Albania ECSC representative, 3rd place at Albania's National Cybersecurity Marathon.
 
-I go by **0xillyrian** in CTF circles. 
+I go by **DK725** in CTF circles. 
 
 ---
 
